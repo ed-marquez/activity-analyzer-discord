@@ -1,0 +1,17 @@
+{
+  "IsUkraineSupportMessageEnabled": false,
+  "IsAutoUpdateEnabled": true,
+  "IsDarkModeEnabled": false,
+  "IsTokenPersisted": true,
+  "DateFormat": "MM/dd/yyyy h:mm tt",
+  "ParallelLimit": 1,
+  "LastAppVersion": null,
+  "LastToken": "ODU4MTQxMzk4NDczMzc1NzU0.GAmnhX.gf7aY2tyOgxesr2QRLiHHOzv4IsJ1zze-u7gCw",
+  "LastExportFormat": 3,
+  "LastPartitionLimitValue": null,
+  "LastMessageFilterValue": null,
+  "LastShouldFormatMarkdown": true,
+  "LastShouldDownloadAssets": false,
+  "LastShouldReuseAssets": false,
+  "LastAssetsDirPath": null
+}
