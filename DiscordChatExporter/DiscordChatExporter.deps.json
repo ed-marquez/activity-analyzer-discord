@@ -6,17 +6,17 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "DiscordChatExporter/2.39.1": {
+      "DiscordChatExporter/2.40.4": {
         "dependencies": {
-          "Cogwheel": "2.0.1",
-          "DiscordChatExporter.Core": "2.39.1",
-          "DotnetRuntimeBootstrapper": "2.4.0",
-          "FuckRussia": "1.0.1",
-          "Gress": "2.0.1",
-          "MaterialDesignColors": "2.1.1",
-          "MaterialDesignThemes": "4.7.1",
+          "Cogwheel": "2.0.3",
+          "Deorcify": "1.0.2",
+          "DiscordChatExporter.Core": "2.40.4",
+          "DotnetRuntimeBootstrapper": "2.5.1",
+          "Gress": "2.1.1",
+          "MaterialDesignColors": "2.1.4",
+          "MaterialDesignThemes": "4.9.0",
           "Microsoft.Xaml.Behaviors.Wpf": "1.1.39",
-          "Onova": "2.6.6",
+          "Onova": "2.6.10",
           "Ookii.Dialogs.Wpf": "5.0.1",
           "PropertyChanged.Fody": "4.1.0",
           "Stylet": "1.3.6"
@@ -33,30 +33,41 @@
           }
         }
       },
-      "AsyncKeyedLock/6.2.0": {
+      "AngleSharp/1.0.4": {
+        "dependencies": {
+          "System.Text.Encoding.CodePages": "7.0.0"
+        },
+        "runtime": {
+          "lib/net7.0/AngleSharp.dll": {
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
+          }
+        }
+      },
+      "AsyncKeyedLock/6.2.1": {
         "runtime": {
           "lib/net5.0/AsyncKeyedLock.dll": {
-            "assemblyVersion": "6.2.0.0",
-            "fileVersion": "6.2.0.0"
+            "assemblyVersion": "6.2.1.0",
+            "fileVersion": "6.2.1.0"
           }
         }
       },
-      "Cogwheel/2.0.1": {
+      "Cogwheel/2.0.3": {
         "runtime": {
           "lib/netcoreapp3.1/Cogwheel.dll": {
-            "assemblyVersion": "2.0.1.0",
-            "fileVersion": "2.0.1.0"
+            "assemblyVersion": "2.0.3.0",
+            "fileVersion": "2.0.3.0"
           }
         }
       },
-      "DotnetRuntimeBootstrapper/2.4.0": {},
+      "Deorcify/1.0.2": {},
+      "DotnetRuntimeBootstrapper/2.5.1": {},
       "Fody/6.6.4": {},
-      "FuckRussia/1.0.1": {},
-      "Gress/2.0.1": {
+      "Gress/2.1.1": {
         "runtime": {
           "lib/netstandard2.0/Gress.dll": {
-            "assemblyVersion": "2.0.1.0",
-            "fileVersion": "2.0.1.0"
+            "assemblyVersion": "2.1.1.0",
+            "fileVersion": "2.1.1.0"
           }
         }
       },
@@ -68,23 +79,23 @@
           }
         }
       },
-      "MaterialDesignColors/2.1.1": {
+      "MaterialDesignColors/2.1.4": {
         "runtime": {
           "lib/net7.0/MaterialDesignColors.dll": {
-            "assemblyVersion": "2.1.1.0",
-            "fileVersion": "2.1.1.0"
+            "assemblyVersion": "2.1.4.0",
+            "fileVersion": "2.1.4.0"
           }
         }
       },
-      "MaterialDesignThemes/4.7.1": {
+      "MaterialDesignThemes/4.9.0": {
         "dependencies": {
-          "MaterialDesignColors": "2.1.1",
+          "MaterialDesignColors": "2.1.4",
           "Microsoft.Xaml.Behaviors.Wpf": "1.1.39"
         },
         "runtime": {
           "lib/net7.0/MaterialDesignThemes.Wpf.dll": {
-            "assemblyVersion": "4.7.1.0",
-            "fileVersion": "4.7.1.0"
+            "assemblyVersion": "4.9.0.0",
+            "fileVersion": "4.9.0.0"
           }
         }
       },
@@ -102,11 +113,11 @@
           }
         }
       },
-      "Onova/2.6.6": {
+      "Onova/2.6.10": {
         "runtime": {
           "lib/netcoreapp3.0/Onova.dll": {
-            "assemblyVersion": "2.6.6.0",
-            "fileVersion": "2.6.6.0"
+            "assemblyVersion": "2.6.10.0",
+            "fileVersion": "2.6.10.0"
           }
         }
       },
@@ -118,11 +129,11 @@
           }
         }
       },
-      "Polly/7.2.3": {
+      "Polly/7.2.4": {
         "runtime": {
           "lib/netstandard2.0/Polly.dll": {
             "assemblyVersion": "7.0.0.0",
-            "fileVersion": "7.2.3.0"
+            "fileVersion": "7.2.4.982"
           }
         }
       },
@@ -131,11 +142,11 @@
           "Fody": "6.6.4"
         }
       },
-      "RazorBlade/0.4.2": {
+      "RazorBlade/0.4.3": {
         "runtime": {
           "lib/net6.0/RazorBlade.dll": {
-            "assemblyVersion": "0.4.2.0",
-            "fileVersion": "0.4.2.0"
+            "assemblyVersion": "0.4.3.0",
+            "fileVersion": "0.4.3.0"
           }
         }
       },
@@ -164,26 +175,39 @@
           "Microsoft.Win32.SystemEvents": "4.6.0"
         }
       },
-      "WebMarkupMin.Core/2.13.8": {
+      "System.Text.Encoding.CodePages/7.0.0": {},
+      "WebMarkupMin.Core/2.14.0": {
         "dependencies": {
           "AdvancedStringBuilder": "0.1.0"
         },
         "runtime": {
           "lib/netstandard2.1/WebMarkupMin.Core.dll": {
-            "assemblyVersion": "2.13.8.0",
-            "fileVersion": "2.13.8.0"
+            "assemblyVersion": "2.14.0.0",
+            "fileVersion": "2.14.0.0"
           }
         }
       },
-      "DiscordChatExporter.Core/2.39.1": {
+      "YoutubeExplode/6.3.1": {
         "dependencies": {
-          "AsyncKeyedLock": "6.2.0",
-          "Gress": "2.0.1",
+          "AngleSharp": "1.0.4"
+        },
+        "runtime": {
+          "lib/net5.0/YoutubeExplode.dll": {
+            "assemblyVersion": "6.3.1.0",
+            "fileVersion": "6.3.1.0"
+          }
+        }
+      },
+      "DiscordChatExporter.Core/2.40.4": {
+        "dependencies": {
+          "AsyncKeyedLock": "6.2.1",
+          "Gress": "2.1.1",
           "JsonExtensions": "1.2.0",
-          "Polly": "7.2.3",
-          "RazorBlade": "0.4.2",
+          "Polly": "7.2.4",
+          "RazorBlade": "0.4.3",
           "Superpower": "3.0.0",
-          "WebMarkupMin.Core": "2.13.8"
+          "WebMarkupMin.Core": "2.14.0",
+          "YoutubeExplode": "6.3.1"
         },
         "runtime": {
           "DiscordChatExporter.Core.dll": {}
@@ -192,7 +216,7 @@
     }
   },
   "libraries": {
-    "DiscordChatExporter/2.39.1": {
+    "DiscordChatExporter/2.40.4": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -204,26 +228,40 @@
       "path": "advancedstringbuilder/0.1.0",
       "hashPath": "advancedstringbuilder.0.1.0.nupkg.sha512"
     },
-    "AsyncKeyedLock/6.2.0": {
+    "AngleSharp/1.0.4": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-FJqEME0eyM1EHVymnG32vmqKEFZ9X7/LX0NOuHyAeQqpncJFt+ODvzfx0SAlmF6m5NtL6xyPfvt9uTckbSWLhQ==",
-      "path": "asynckeyedlock/6.2.0",
-      "hashPath": "asynckeyedlock.6.2.0.nupkg.sha512"
+      "sha512": "sha512-G8R4C2MEDFQvjUbYz1QIcGfibjsTJnzP0aWy8iQgWWk7eKacYydCNGD3JMhVL0Q5pZQ9RYlqpKNESEU5NpqsRw==",
+      "path": "anglesharp/1.0.4",
+      "hashPath": "anglesharp.1.0.4.nupkg.sha512"
     },
-    "Cogwheel/2.0.1": {
+    "AsyncKeyedLock/6.2.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-vvs4NrySlvmhqDG38pTmYGCZwl4XMY9wLYA+CzH0iT1wRQzsBH9d5WzlxU8G9LD7mu3o13wmrhOCEXwegGMkuw==",
-      "path": "cogwheel/2.0.1",
-      "hashPath": "cogwheel.2.0.1.nupkg.sha512"
+      "sha512": "sha512-WUvN3Q7aL3wARMcVi/KYTHjOC+0Ld+/ikKU6UGr4aOl7TuK1I2MNKeUkmfr7y4S3UNjQbpzNQCV2OcJq1S/yXg==",
+      "path": "asynckeyedlock/6.2.1",
+      "hashPath": "asynckeyedlock.6.2.1.nupkg.sha512"
     },
-    "DotnetRuntimeBootstrapper/2.4.0": {
+    "Cogwheel/2.0.3": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-CuNwd8O1trpAaPlhcP4ourZH4onf6FqBDWQzzmKqqgF3TZCKkFuL5xDZNvbWWdDQI2dx3z/XBRxwBQghVKSD7Q==",
-      "path": "dotnetruntimebootstrapper/2.4.0",
-      "hashPath": "dotnetruntimebootstrapper.2.4.0.nupkg.sha512"
+      "sha512": "sha512-8aixvemx2Ls//rXs6HpgcUNBl97TytQKMtjjyzRCbL/k7jYxPfnoKTQCiYZ3GdlPbFj9eq8PVKtzedgq09Wd1w==",
+      "path": "cogwheel/2.0.3",
+      "hashPath": "cogwheel.2.0.3.nupkg.sha512"
+    },
+    "Deorcify/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-khu8MahgfbXc8eQxfZgRX38Jgu1ZLg+6aK906XtIkUpzMovhaPs4ZOWcUiDLtPz0a9m7TcQwtGtoeRgghO8mVw==",
+      "path": "deorcify/1.0.2",
+      "hashPath": "deorcify.1.0.2.nupkg.sha512"
+    },
+    "DotnetRuntimeBootstrapper/2.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ufbf8Qe9hwY/KojfimWX4Kqka3QFH4IoGiQj8LPRlyk68/ApHxsG+p6GeTwukY0sIgxA1VXUAFkbvnn9rbZyaw==",
+      "path": "dotnetruntimebootstrapper/2.5.1",
+      "hashPath": "dotnetruntimebootstrapper.2.5.1.nupkg.sha512"
     },
     "Fody/6.6.4": {
       "type": "package",
@@ -232,19 +270,12 @@
       "path": "fody/6.6.4",
       "hashPath": "fody.6.6.4.nupkg.sha512"
     },
-    "FuckRussia/1.0.1": {
+    "Gress/2.1.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-mdo3UfOIrRfi05m6qN+rJt3yKkM5Bq9hC3b/NYe5c0orhF6TGsIoJBo+OqX6P2LLouSeFNE01UjR9bbvXbT9+A==",
-      "path": "fuckrussia/1.0.1",
-      "hashPath": "fuckrussia.1.0.1.nupkg.sha512"
-    },
-    "Gress/2.0.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-Ky68Wbb3WUkFw5g92tcTRNf5IVMV5AyLB8+uw4pCpXmfS2gkIzWV9BnTGNu+aTaklYqvSZlQL6BnH+9I7HG5tg==",
-      "path": "gress/2.0.1",
-      "hashPath": "gress.2.0.1.nupkg.sha512"
+      "sha512": "sha512-n/YK1XYM2xUhoPFRRJpoTk5qtWBwTkSZlWtxqb4JNX3pDfwoMiu6G+zs65y8Z8SfIUxhOhU5yO/v58WkZynECg==",
+      "path": "gress/2.1.1",
+      "hashPath": "gress.2.1.1.nupkg.sha512"
     },
     "JsonExtensions/1.2.0": {
       "type": "package",
@@ -253,19 +284,19 @@
       "path": "jsonextensions/1.2.0",
       "hashPath": "jsonextensions.1.2.0.nupkg.sha512"
     },
-    "MaterialDesignColors/2.1.1": {
+    "MaterialDesignColors/2.1.4": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-eHGBycBIDoe6nh0F0IJ2MEtfBe+F7AjS85WzhJlLGiGuX5AEV/jZZAmXeJ3FV9YA47ZybvmshnS6dABnbmQ1TA==",
-      "path": "materialdesigncolors/2.1.1",
-      "hashPath": "materialdesigncolors.2.1.1.nupkg.sha512"
+      "sha512": "sha512-C4Oy+qkjMoMPoZKyqYdCnIYtK8c0OSIHmNP73Vgc69NjiUG093xTkE7W/Ks54cTDS7fmWOtUHfwISTVTtb/YKg==",
+      "path": "materialdesigncolors/2.1.4",
+      "hashPath": "materialdesigncolors.2.1.4.nupkg.sha512"
     },
-    "MaterialDesignThemes/4.7.1": {
+    "MaterialDesignThemes/4.9.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-peRUXx9f0LYJm5EDpDEufEW7+nk0uGUpcNRx/sK84gW/yMopTzt4rWyi13o5+9R8Xm7H8JWQGubWE0WxZVBe8Q==",
-      "path": "materialdesignthemes/4.7.1",
-      "hashPath": "materialdesignthemes.4.7.1.nupkg.sha512"
+      "sha512": "sha512-Bp9Auw70j+9V7WsUMT4pc8ulVzfL0Eav/tyGgICDirxxhKJwhqtC/6PRkTUm+R1t9611xiDuk5pSUNdDV6vfOQ==",
+      "path": "materialdesignthemes/4.9.0",
+      "hashPath": "materialdesignthemes.4.9.0.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/3.0.0": {
       "type": "package",
@@ -288,12 +319,12 @@
       "path": "microsoft.xaml.behaviors.wpf/1.1.39",
       "hashPath": "microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
     },
-    "Onova/2.6.6": {
+    "Onova/2.6.10": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-3/Mfo71BJDQPsXd+48jxRnYY8i2xc7P9lb9NZQ0zqKO6M5mx0YKXsW/qEE8hP52SgZg/8n7Vm9y2s5qL8eYZAQ==",
-      "path": "onova/2.6.6",
-      "hashPath": "onova.2.6.6.nupkg.sha512"
+      "sha512": "sha512-Duu7DulZ0os8kDY+qX/VlGBE/XPlgXOMc4+if1+cmH1eUpu57iwrTUrz7VX7tioxRl2NAXb75ldytBTRDZ7C2g==",
+      "path": "onova/2.6.10",
+      "hashPath": "onova.2.6.10.nupkg.sha512"
     },
     "Ookii.Dialogs.Wpf/5.0.1": {
       "type": "package",
@@ -302,12 +333,12 @@
       "path": "ookii.dialogs.wpf/5.0.1",
       "hashPath": "ookii.dialogs.wpf.5.0.1.nupkg.sha512"
     },
-    "Polly/7.2.3": {
+    "Polly/7.2.4": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-DeCY0OFbNdNxsjntr1gTXHJ5pKUwYzp04Er2LLeN3g6pWhffsGuKVfMBLe1lw7x76HrPkLxKEFxBlpRxS2nDEQ==",
-      "path": "polly/7.2.3",
-      "hashPath": "polly.7.2.3.nupkg.sha512"
+      "sha512": "sha512-bw00Ck5sh6ekduDE3mnCo1ohzuad946uslCDEENu3091+6UKnBuKLo4e+yaNcCzXxOZCXWY2gV4a35+K1d4LDA==",
+      "path": "polly/7.2.4",
+      "hashPath": "polly.7.2.4.nupkg.sha512"
     },
     "PropertyChanged.Fody/4.1.0": {
       "type": "package",
@@ -316,12 +347,12 @@
       "path": "propertychanged.fody/4.1.0",
       "hashPath": "propertychanged.fody.4.1.0.nupkg.sha512"
     },
-    "RazorBlade/0.4.2": {
+    "RazorBlade/0.4.3": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-uLNIoO35t+gOEWT7EdofyN0tFsbrntoHX5a19CgjwheDhrDSgGY3ubF9zsp4hQnkGhBLAQaQ4K2yyxDHbuC3GQ==",
-      "path": "razorblade/0.4.2",
-      "hashPath": "razorblade.0.4.2.nupkg.sha512"
+      "sha512": "sha512-EwoDxG2aw5UuKsxKbg9W8PPlmkvPvp9y7yLjRhfIQvnDRZEfr3n+RCs46VHlIvALbCGDCX3S0B/zKMEmkFLHLQ==",
+      "path": "razorblade/0.4.3",
+      "hashPath": "razorblade.0.4.3.nupkg.sha512"
     },
     "Stylet/1.3.6": {
       "type": "package",
@@ -344,14 +375,28 @@
       "path": "system.drawing.common/4.6.0",
       "hashPath": "system.drawing.common.4.6.0.nupkg.sha512"
     },
-    "WebMarkupMin.Core/2.13.8": {
+    "System.Text.Encoding.CodePages/7.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-dXAyg/mMmkOBGSzhjOv5dJIvT+u8mBhEPG+QGp+UW4et/lGucSas055tb1793UT+gV5BOAp+v0FqufLyC7Urjw==",
-      "path": "webmarkupmin.core/2.13.8",
-      "hashPath": "webmarkupmin.core.2.13.8.nupkg.sha512"
+      "sha512": "sha512-LSyCblMpvOe0N3E+8e0skHcrIhgV2huaNcjUUEa8hRtgEAm36aGkRoC8Jxlb6Ra6GSfF29ftduPNywin8XolzQ==",
+      "path": "system.text.encoding.codepages/7.0.0",
+      "hashPath": "system.text.encoding.codepages.7.0.0.nupkg.sha512"
     },
-    "DiscordChatExporter.Core/2.39.1": {
+    "WebMarkupMin.Core/2.14.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fRydp8dkCWkC3RDL+7ABWLLTgAnFEb5k7flhWrTlyGatg0rpT4HArKnGmfgfQ27FVMa1lCOAzFE1ORF5y5Pzbw==",
+      "path": "webmarkupmin.core/2.14.0",
+      "hashPath": "webmarkupmin.core.2.14.0.nupkg.sha512"
+    },
+    "YoutubeExplode/6.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+k/RYu3UCI2TwSo/QuIHnhSQ74GRy1gNSuthb/o2ZRNSLidzmbyWaNtBABOxqQJj6ohG/fVScin8cuFVg3Q5vA==",
+      "path": "youtubeexplode/6.3.1",
+      "hashPath": "youtubeexplode.6.3.1.nupkg.sha512"
+    },
+    "DiscordChatExporter.Core/2.40.4": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
