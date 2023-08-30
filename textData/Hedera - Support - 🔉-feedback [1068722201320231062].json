@@ -1,0 +1,2810 @@
+{
+  "guild": {
+    "id": "373889138199494658",
+    "name": "Hedera",
+    "iconUrl": "https://cdn.discordapp.com/icons/373889138199494658/a_fa0a78a49b40a731c30c32b3614fc74a.gif?size=512"
+  },
+  "channel": {
+    "id": "1068722201320231062",
+    "type": "GuildTextChat",
+    "categoryId": "1068721403244851291",
+    "category": "Support",
+    "name": "\uD83D\uDD09-feedback",
+    "topic": "Any feedback for the Hedera team, please submit it here."
+  },
+  "dateRange": {
+    "after": "2022-01-01T00:00:00-05:00",
+    "before": "2023-08-31T00:00:00-04:00"
+  },
+  "exportedAt": "2023-08-30T16:36:22.1858277+00:00",
+  "messages": [
+    {
+      "id": "1069592986456961084",
+      "type": "Default",
+      "timestamp": "2023-01-30T12:20:40.048+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.com/channels/373889138199494658/525722248498118686/1068478765837062155\n\nposted this in portal the other day, guessing it got lost in the reshuffle. Basically atm you cannot reset your password on the Portal",
+      "author": {
+        "id": "474151701138505739",
+        "name": "rhysied",
+        "discriminator": "0000",
+        "nickname": "rhysied",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/474151701138505739/f569f7beb681151be3898997970d3618.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1069625271046635550",
+      "type": "Default",
+      "timestamp": "2023-01-30T14:28:57.294+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Passed this onto the Portal team, thanks @rhysied",
+      "author": {
+        "id": "429323958592995328",
+        "name": "Greg Scullard",
+        "discriminator": "5365",
+        "nickname": "Greg Scullard",
+        "color": "#2ECC71",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "511588313577291792",
+            "name": "Hedera Developer Advocate",
+            "color": "#2ECC71",
+            "position": 10
+          },
+          {
+            "id": "408125779285639171",
+            "name": "Hedera Core",
+            "color": "#1ABC9C",
+            "position": 9
+          },
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/429323958592995328/e85c908bbe19e5f9cf42f8d30fff025a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "474151701138505739",
+              "name": "rhysied",
+              "discriminator": "0000",
+              "nickname": "rhysied",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/474151701138505739/f569f7beb681151be3898997970d3618.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "474151701138505739",
+          "name": "rhysied",
+          "discriminator": "0000",
+          "nickname": "rhysied",
+          "color": "#E91E63",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1042837965086396436",
+              "name": "Member",
+              "color": "#E91E63",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/474151701138505739/f569f7beb681151be3898997970d3618.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1071139395584933938",
+      "type": "Default",
+      "timestamp": "2023-02-03T18:45:32.715+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "issue on the docs site, the Mirror Node REST API section is currently broken: https://docs.hedera.com/hedera/core-concepts/mirror-nodes#rest-api-from-hedera",
+      "author": {
+        "id": "474151701138505739",
+        "name": "rhysied",
+        "discriminator": "0000",
+        "nickname": "rhysied",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/474151701138505739/f569f7beb681151be3898997970d3618.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D\uD83C\uDFFB",
+            "code": "thumbsup_tone1",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d-1f3fb.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "308374014210998272",
+              "name": "propatte",
+              "discriminator": "0000",
+              "nickname": "ProPatte",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/308374014210998272/b2ec4d3c586bb9f2e81e0475bf941d80.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1071631077350842509",
+      "type": "Reply",
+      "timestamp": "2023-02-05T03:19:18.783+00:00",
+      "timestampEdited": "2023-02-05T03:39:06.556+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thanks for catching this! just fixed it :)",
+      "author": {
+        "id": "550003127525572609",
+        "name": "theekrystallee",
+        "discriminator": "0000",
+        "nickname": "krystal",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "408125779285639171",
+            "name": "Hedera Core",
+            "color": "#1ABC9C",
+            "position": 9
+          },
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/550003127525572609/c296e686da97f626e6bfebc126ae87e5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "474151701138505739",
+              "name": "rhysied",
+              "discriminator": "0000",
+              "nickname": "rhysied",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/474151701138505739/f569f7beb681151be3898997970d3618.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "474151701138505739",
+          "name": "rhysied",
+          "discriminator": "0000",
+          "nickname": "rhysied",
+          "color": "#E91E63",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1042837965086396436",
+              "name": "Member",
+              "color": "#E91E63",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/474151701138505739/f569f7beb681151be3898997970d3618.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1071139395584933938",
+        "channelId": "1068722201320231062",
+        "guildId": "373889138199494658"
+      }
+    },
+    {
+      "id": "1076447175380320277",
+      "type": "Default",
+      "timestamp": "2023-02-18T10:16:46.032+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey @zepzi :) Someone on telegram was giving feedback and wished for more granular information on grant allocations (how much, to whom and for what). I can't find that information on https://www.hbarfoundation.org/. Do you know if the Foundation will provide that information and if not why?",
+      "author": {
+        "id": "308374014210998272",
+        "name": "propatte",
+        "discriminator": "0000",
+        "nickname": "ProPatte",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "900845300141395978",
+            "name": "Moderator",
+            "color": "#11806A",
+            "position": 8
+          },
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/308374014210998272/b2ec4d3c586bb9f2e81e0475bf941d80.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The HBAR Foundation",
+          "url": "https://www.hbarfoundation.org/",
+          "timestamp": null,
+          "description": "The HBAR Foundation acts as an integrated force multiplier to help builders and creators overcome the challenges of bringing their ideas to market.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/0vchXD0SpwSQmWp1xjros3oQeIOHw-JapD17IijcDs4/https/assets-global.website-files.com/61651cc183045348b282e8b2/6169723261db99480356bc6f_cover.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "876393483357786172",
+          "name": "zepzi",
+          "discriminator": "0668",
+          "nickname": "zepzi",
+          "color": "#E91E63",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1042837965086396436",
+              "name": "Member",
+              "color": "#E91E63",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/876393483357786172/92ffcfebed6105dd4e972801d1e71cc4.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1076448105156853791",
+      "type": "Default",
+      "timestamp": "2023-02-18T10:20:27.708+00:00",
+      "timestampEdited": "2023-02-18T10:21:30.689+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey @Liebenfiels, we appreciate your feedback :) Hedera seems to be open to provide a guide for non technical users. You mentioned checksum, staking and accounts, what else would you wish to be explained?",
+      "author": {
+        "id": "308374014210998272",
+        "name": "propatte",
+        "discriminator": "0000",
+        "nickname": "ProPatte",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "900845300141395978",
+            "name": "Moderator",
+            "color": "#11806A",
+            "position": 8
+          },
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/308374014210998272/b2ec4d3c586bb9f2e81e0475bf941d80.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "537756074216783898",
+          "name": "Liebenfiels",
+          "discriminator": "7895",
+          "nickname": "Liebenfiels",
+          "color": "#E91E63",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1042837965086396436",
+              "name": "Member",
+              "color": "#E91E63",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+        }
+      ]
+    },
+    {
+      "id": "1076490826756132944",
+      "type": "Reply",
+      "timestamp": "2023-02-18T13:10:13.331+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that is good start and then recovery phrases/public keys to combine that when explaining accounts.   Some wallets still offer 12 recovery than 24 and that alone may confuse people if no single standard is followed, as least to explain why some have 12/24, that some are used from hisoric point of view as in Bitcoin. I put a lot of posts on QR-code how to make it, but there is no single standard for now  so can be skipped. Just focus on general walk around infographics for accounts ID + checksum, recovery phrases, staking. That is what most people ask for, the tokens etc later on but that part is easy to follow once people understand basics",
+      "author": {
+        "id": "537756074216783898",
+        "name": "Liebenfiels",
+        "discriminator": "7895",
+        "nickname": "Liebenfiels",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD1D",
+            "code": "handshake",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f91d.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "308374014210998272",
+              "name": "propatte",
+              "discriminator": "0000",
+              "nickname": "ProPatte",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/308374014210998272/b2ec4d3c586bb9f2e81e0475bf941d80.png?size=512"
+            },
+            {
+              "id": "902639440193785936",
+              "name": "defigirlxo",
+              "discriminator": "0000",
+              "nickname": "Defigirlxo",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/902639440193785936/afd434815db0d863683f08ba215fff44.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "308374014210998272",
+          "name": "propatte",
+          "discriminator": "0000",
+          "nickname": "ProPatte",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "900845300141395978",
+              "name": "Moderator",
+              "color": "#11806A",
+              "position": 8
+            },
+            {
+              "id": "1042837965086396436",
+              "name": "Member",
+              "color": "#E91E63",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/308374014210998272/b2ec4d3c586bb9f2e81e0475bf941d80.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1076448105156853791",
+        "channelId": "1068722201320231062",
+        "guildId": "373889138199494658"
+      }
+    },
+    {
+      "id": "1077579921217568919",
+      "type": "Default",
+      "timestamp": "2023-02-21T13:17:53.685+00:00",
+      "timestampEdited": "2023-02-23T12:51:58.249+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@rfic_de You would post it here. The #\uD83D\uDEA8-report channel is for scammers and spam",
+      "author": {
+        "id": "377865013030813717",
+        "name": "supremax67",
+        "discriminator": "0000",
+        "nickname": "Supremax67",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "900845300141395978",
+            "name": "Moderator",
+            "color": "#11806A",
+            "position": 8
+          },
+          {
+            "id": "408124284599533568",
+            "name": "Elite",
+            "color": "#F1C40F",
+            "position": 7
+          },
+          {
+            "id": "837401257568108634",
+            "name": "Server Booster",
+            "color": "#71368A",
+            "position": 4
+          },
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377865013030813717/4065e877e889539a98f714dee4a9293f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "880064564308361226",
+          "name": "rfic_de",
+          "discriminator": "0000",
+          "nickname": "rfic_de",
+          "color": "#E91E63",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1042837965086396436",
+              "name": "Member",
+              "color": "#E91E63",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/880064564308361226/3bc20fe874d6d6c44c9a639fb809f8a4.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1077608680192757791",
+      "type": "Reply",
+      "timestamp": "2023-02-21T15:12:10.359+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the Hashpack team indicated I am experiencing the result of a bug Hedera is already working on for Hashscan.io...",
+      "author": {
+        "id": "880064564308361226",
+        "name": "rfic_de",
+        "discriminator": "0000",
+        "nickname": "rfic_de",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/880064564308361226/3bc20fe874d6d6c44c9a639fb809f8a4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "377865013030813717",
+          "name": "supremax67",
+          "discriminator": "0000",
+          "nickname": "Supremax67",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "900845300141395978",
+              "name": "Moderator",
+              "color": "#11806A",
+              "position": 8
+            },
+            {
+              "id": "408124284599533568",
+              "name": "Elite",
+              "color": "#F1C40F",
+              "position": 7
+            },
+            {
+              "id": "837401257568108634",
+              "name": "Server Booster",
+              "color": "#71368A",
+              "position": 4
+            },
+            {
+              "id": "1042837965086396436",
+              "name": "Member",
+              "color": "#E91E63",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/377865013030813717/4065e877e889539a98f714dee4a9293f.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1077579921217568919",
+        "channelId": "1068722201320231062",
+        "guildId": "373889138199494658"
+      }
+    },
+    {
+      "id": "1077608728804720711",
+      "type": "Default",
+      "timestamp": "2023-02-21T15:12:21.949+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "so no biggie I will wait and see if it gets resolved eventually",
+      "author": {
+        "id": "880064564308361226",
+        "name": "rfic_de",
+        "discriminator": "0000",
+        "nickname": "rfic_de",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/880064564308361226/3bc20fe874d6d6c44c9a639fb809f8a4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1078266606926446592",
+      "type": "Default",
+      "timestamp": "2023-02-23T10:46:32.316+00:00",
+      "timestampEdited": "2023-02-23T11:01:42.613+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey everyone :) How are you doing \uD83D\uDC4B\uD83C\uDFFB What are topics you would cover on a landing page (quick start guide) for first time non-technical Hedera retail users.\n\nWhat questions do often come up? Would appreciate your input :)\n\nSo far we gathered: seeds (different lengths of seeds), accounts (multiple account IDs under one seed & checksums), staking (native and liquid).",
+      "author": {
+        "id": "308374014210998272",
+        "name": "propatte",
+        "discriminator": "0000",
+        "nickname": "ProPatte",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "900845300141395978",
+            "name": "Moderator",
+            "color": "#11806A",
+            "position": 8
+          },
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/308374014210998272/b2ec4d3c586bb9f2e81e0475bf941d80.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "764954605838532638",
+              "name": "AbsolutelyNot",
+              "discriminator": "3226",
+              "nickname": "AbsolutelyNot",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/764954605838532638/48406f42b4ee9b6f7a7cf7f62a6f13f1.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1078270053675446272",
+      "type": "Reply",
+      "timestamp": "2023-02-23T11:00:14.085+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@AbsolutelyNot @Supremax67 @May (HashPack) @pluto (HashPack) @dayve__ @Phasmatis @Jeeptopdown @ຸ @itsbrandond",
+      "author": {
+        "id": "308374014210998272",
+        "name": "propatte",
+        "discriminator": "0000",
+        "nickname": "ProPatte",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "900845300141395978",
+            "name": "Moderator",
+            "color": "#11806A",
+            "position": 8
+          },
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/308374014210998272/b2ec4d3c586bb9f2e81e0475bf941d80.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "129238365882023936",
+          "name": "teacoat",
+          "discriminator": "0000",
+          "nickname": "pluto (HashPack)",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "900845300141395978",
+              "name": "Moderator",
+              "color": "#11806A",
+              "position": 8
+            },
+            {
+              "id": "896156029610491944",
+              "name": "Partners",
+              "color": "#3498DB",
+              "position": 6
+            },
+            {
+              "id": "1042837965086396436",
+              "name": "Member",
+              "color": "#E91E63",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/129238365882023936/d72ea9eb88ab76da6d95f093039d32f8.png?size=512"
+        },
+        {
+          "id": "255000116388167680",
+          "name": "phasmatis",
+          "discriminator": "0000",
+          "nickname": "Phasmatis",
+          "color": "#E91E63",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1042837965086396436",
+              "name": "Member",
+              "color": "#E91E63",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/255000116388167680/1be38c88aa97b8893d5ce9883a9b55ba.png?size=512"
+        },
+        {
+          "id": "140596444267544578",
+          "name": "rocketmay",
+          "discriminator": "0000",
+          "nickname": "May (HashPack)",
+          "color": "#3498DB",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "896156029610491944",
+              "name": "Partners",
+              "color": "#3498DB",
+              "position": 6
+            },
+            {
+              "id": "1042837965086396436",
+              "name": "Member",
+              "color": "#E91E63",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/guilds/373889138199494658/users/140596444267544578/avatars/fdfcb956aace077f747ed052a7b9cc03.png?size=512"
+        },
+        {
+          "id": "811995230177722368",
+          "name": "dayve__",
+          "discriminator": "0000",
+          "nickname": "dayve__",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "900845300141395978",
+              "name": "Moderator",
+              "color": "#11806A",
+              "position": 8
+            },
+            {
+              "id": "1042837965086396436",
+              "name": "Member",
+              "color": "#E91E63",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/811995230177722368/cfbf6bd402537b68b0a2143ca553417e.png?size=512"
+        },
+        {
+          "id": "511554035841499143",
+          "name": "nubeasado",
+          "discriminator": "0000",
+          "nickname": "ຸ",
+          "color": "#E91E63",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1042837965086396436",
+              "name": "Member",
+              "color": "#E91E63",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/guilds/373889138199494658/users/511554035841499143/avatars/a3b984f6769d0e955eccf0d5607516ae.png?size=512"
+        },
+        {
+          "id": "804802189926465617",
+          "name": "itsbrandond",
+          "discriminator": "0000",
+          "nickname": "itsbrandond",
+          "color": "#3498DB",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "896156029610491944",
+              "name": "Partners",
+              "color": "#3498DB",
+              "position": 6
+            },
+            {
+              "id": "1042837965086396436",
+              "name": "Member",
+              "color": "#E91E63",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/804802189926465617/c3cb54810648a3b6ea4d66b0c9b31d31.png?size=512"
+        },
+        {
+          "id": "377865013030813717",
+          "name": "supremax67",
+          "discriminator": "0000",
+          "nickname": "Supremax67",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "900845300141395978",
+              "name": "Moderator",
+              "color": "#11806A",
+              "position": 8
+            },
+            {
+              "id": "408124284599533568",
+              "name": "Elite",
+              "color": "#F1C40F",
+              "position": 7
+            },
+            {
+              "id": "837401257568108634",
+              "name": "Server Booster",
+              "color": "#71368A",
+              "position": 4
+            },
+            {
+              "id": "1042837965086396436",
+              "name": "Member",
+              "color": "#E91E63",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/377865013030813717/4065e877e889539a98f714dee4a9293f.png?size=512"
+        },
+        {
+          "id": "815641061883248701",
+          "name": "Jeeptopdown",
+          "discriminator": "2578",
+          "nickname": "Jeeptopdown",
+          "color": "#E91E63",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1042837965086396436",
+              "name": "Member",
+              "color": "#E91E63",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/815641061883248701/694aded029cc2581ee5e746502c7891d.png?size=512"
+        },
+        {
+          "id": "764954605838532638",
+          "name": "AbsolutelyNot",
+          "discriminator": "3226",
+          "nickname": "AbsolutelyNot",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/764954605838532638/48406f42b4ee9b6f7a7cf7f62a6f13f1.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1078266606926446592",
+        "channelId": "1068722201320231062",
+        "guildId": "373889138199494658"
+      }
+    },
+    {
+      "id": "1078272013841485887",
+      "type": "Reply",
+      "timestamp": "2023-02-23T11:08:01.425+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Most of the people ive got into hbar always ask where to buy hbar, then also what is it actually used for. Then also the terminology, they seem to find words like \"Staking\" and \"DeFi\" very confusing",
+      "author": {
+        "id": "255000116388167680",
+        "name": "phasmatis",
+        "discriminator": "0000",
+        "nickname": "Phasmatis",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/255000116388167680/1be38c88aa97b8893d5ce9883a9b55ba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "811995230177722368",
+              "name": "dayve__",
+              "discriminator": "0000",
+              "nickname": "dayve__",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/811995230177722368/cfbf6bd402537b68b0a2143ca553417e.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D\uD83C\uDFFB",
+            "code": "thumbsup_tone1",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d-1f3fb.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "308374014210998272",
+              "name": "propatte",
+              "discriminator": "0000",
+              "nickname": "ProPatte",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/308374014210998272/b2ec4d3c586bb9f2e81e0475bf941d80.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "308374014210998272",
+          "name": "propatte",
+          "discriminator": "0000",
+          "nickname": "ProPatte",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "900845300141395978",
+              "name": "Moderator",
+              "color": "#11806A",
+              "position": 8
+            },
+            {
+              "id": "1042837965086396436",
+              "name": "Member",
+              "color": "#E91E63",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/308374014210998272/b2ec4d3c586bb9f2e81e0475bf941d80.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1078270053675446272",
+        "channelId": "1068722201320231062",
+        "guildId": "373889138199494658"
+      }
+    },
+    {
+      "id": "1078290660911755314",
+      "type": "Reply",
+      "timestamp": "2023-02-23T12:22:07.233+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Just had a chat with someone that im getting in on hbar and they mentioned the below:\n\nCentralised and decentralised currencies and what the benefit is of things being decentralised\n\nHigh level of  cryptocurrencies in general and their benefits, then why Hedera is better than the alternatives",
+      "author": {
+        "id": "255000116388167680",
+        "name": "phasmatis",
+        "discriminator": "0000",
+        "nickname": "Phasmatis",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/255000116388167680/1be38c88aa97b8893d5ce9883a9b55ba.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "308374014210998272",
+          "name": "propatte",
+          "discriminator": "0000",
+          "nickname": "ProPatte",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "900845300141395978",
+              "name": "Moderator",
+              "color": "#11806A",
+              "position": 8
+            },
+            {
+              "id": "1042837965086396436",
+              "name": "Member",
+              "color": "#E91E63",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/308374014210998272/b2ec4d3c586bb9f2e81e0475bf941d80.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1078270053675446272",
+        "channelId": "1068722201320231062",
+        "guildId": "373889138199494658"
+      }
+    },
+    {
+      "id": "1078303037312991292",
+      "type": "Default",
+      "timestamp": "2023-02-23T13:11:17.997+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/8ty9Q7B5Hl8",
+      "author": {
+        "id": "377865013030813717",
+        "name": "supremax67",
+        "discriminator": "0000",
+        "nickname": "Supremax67",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "900845300141395978",
+            "name": "Moderator",
+            "color": "#11806A",
+            "position": 8
+          },
+          {
+            "id": "408124284599533568",
+            "name": "Elite",
+            "color": "#F1C40F",
+            "position": 7
+          },
+          {
+            "id": "837401257568108634",
+            "name": "Server Booster",
+            "color": "#71368A",
+            "position": 4
+          },
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377865013030813717/4065e877e889539a98f714dee4a9293f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Dr. Leemon Baird explains Hedera’s decentralized governance",
+          "url": "https://www.youtube.com/watch?v=8ty9Q7B5Hl8",
+          "timestamp": null,
+          "description": "Dr. Leemon Baird responds to the concern or distaste for Hedera’s perceived centralization based on the large corporations that make up the governing council. For the full video, visit: https://youtu.be/p8J78yLo9RA.\n\nDeveloper resources:\nChat: https://hedera.com/discord\nDocs: https://docs.hedera.com/guides\nGitHub: https://github.com/hashgraph\nTe...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Hedera",
+            "url": "https://www.youtube.com/channel/UCIhE4NYpaX9E9SssFnwrjww"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/BhCkpzdu8hDNRW2RDxUn-UYBzGIYM60dkdy-oYhSOyk/https/i.ytimg.com/vi/8ty9Q7B5Hl8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "811995230177722368",
+              "name": "dayve__",
+              "discriminator": "0000",
+              "nickname": "dayve__",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/811995230177722368/cfbf6bd402537b68b0a2143ca553417e.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1078303408089473027",
+      "type": "Default",
+      "timestamp": "2023-02-23T13:12:46.397+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "More conversation around centralization vs decentralization. Permission or company nodes does not equal centralization and people really need stop milking that story. Dr. Lemon Baird explains it well what decentralization should be.",
+      "author": {
+        "id": "377865013030813717",
+        "name": "supremax67",
+        "discriminator": "0000",
+        "nickname": "Supremax67",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "900845300141395978",
+            "name": "Moderator",
+            "color": "#11806A",
+            "position": 8
+          },
+          {
+            "id": "408124284599533568",
+            "name": "Elite",
+            "color": "#F1C40F",
+            "position": 7
+          },
+          {
+            "id": "837401257568108634",
+            "name": "Server Booster",
+            "color": "#71368A",
+            "position": 4
+          },
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377865013030813717/4065e877e889539a98f714dee4a9293f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1078666969533906965",
+      "type": "Default",
+      "timestamp": "2023-02-24T13:17:26.2+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi, the registration email for the hedera portal (https://portal.hedera.com/register) contains a type that makes it look like a scam mail. Is this the place to mention these things?",
+      "author": {
+        "id": "395574481252253716",
+        "name": "thijs.oostdam",
+        "discriminator": "0000",
+        "nickname": "Thijs",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "attachments": [
+        {
+          "id": "1078666969932382299",
+          "url": "https://cdn.discordapp.com/attachments/1068722201320231062/1078666969932382299/Screenshot_2023-02-24_at_14.15.02.png",
+          "fileName": "Screenshot_2023-02-24_at_14.15.02.png",
+          "fileSizeBytes": 246264
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "764954605838532638",
+              "name": "AbsolutelyNot",
+              "discriminator": "3226",
+              "nickname": "AbsolutelyNot",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/764954605838532638/48406f42b4ee9b6f7a7cf7f62a6f13f1.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1079343887497302026",
+      "type": "Default",
+      "timestamp": "2023-02-26T10:07:16.019+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "is it possible to get a version of hedera.com/fees that works on mobile please? I did try to override the block by requesting desktop site but I'm guessing its a viewport based constraint",
+      "author": {
+        "id": "474151701138505739",
+        "name": "rhysied",
+        "discriminator": "0000",
+        "nickname": "rhysied",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/474151701138505739/f569f7beb681151be3898997970d3618.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080114454617935922",
+      "type": "Reply",
+      "timestamp": "2023-02-28T13:09:13.537+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I can ask.",
+      "author": {
+        "id": "764954605838532638",
+        "name": "AbsolutelyNot",
+        "discriminator": "3226",
+        "nickname": "AbsolutelyNot",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/764954605838532638/48406f42b4ee9b6f7a7cf7f62a6f13f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "308374014210998272",
+              "name": "propatte",
+              "discriminator": "0000",
+              "nickname": "ProPatte",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/308374014210998272/b2ec4d3c586bb9f2e81e0475bf941d80.png?size=512"
+            },
+            {
+              "id": "474151701138505739",
+              "name": "rhysied",
+              "discriminator": "0000",
+              "nickname": "rhysied",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/474151701138505739/f569f7beb681151be3898997970d3618.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "474151701138505739",
+          "name": "rhysied",
+          "discriminator": "0000",
+          "nickname": "rhysied",
+          "color": "#E91E63",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1042837965086396436",
+              "name": "Member",
+              "color": "#E91E63",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/474151701138505739/f569f7beb681151be3898997970d3618.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1079343887497302026",
+        "channelId": "1068722201320231062",
+        "guildId": "373889138199494658"
+      }
+    },
+    {
+      "id": "1080115547242496110",
+      "type": "Default",
+      "timestamp": "2023-02-28T13:13:34.039+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thanks, even a cut down,  mobile-only page would be helpful if it doesnt fit in with the main flow of the site on mobile browsers.\n\nAlso, I'll ask here as no one seemed to follow up on it in #\uD83D\uDDE3-developer-general - is it correct that a single additional non-fee-payer signature on a token associate/dissociate costs $0.03? it seems absurd that its not far off half the price to create a new account with an auto-association slot than to pay the association fees on a user's behalf",
+      "author": {
+        "id": "474151701138505739",
+        "name": "rhysied",
+        "discriminator": "0000",
+        "nickname": "rhysied",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/474151701138505739/f569f7beb681151be3898997970d3618.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1080115698971459738",
+      "type": "Default",
+      "timestamp": "2023-02-28T13:14:10.214+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(link for context: https://discord.com/channels/373889138199494658/373889138199494660/1079341519183556718)",
+      "author": {
+        "id": "474151701138505739",
+        "name": "rhysied",
+        "discriminator": "0000",
+        "nickname": "rhysied",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/474151701138505739/f569f7beb681151be3898997970d3618.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1089282776060133498",
+      "type": "Default",
+      "timestamp": "2023-03-25T20:20:51.708+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://hips.hedera.com/all.html\n\nThere are two \"Review\" sections (duplicate) on this page. @Michael Garber",
+      "author": {
+        "id": "292705407552454657",
+        "name": "fessmm",
+        "discriminator": "0000",
+        "nickname": "fessmm",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/292705407552454657/f450d2bbec3d023c36bce9f2342680ee.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "All | Hedera Improvement Proposals",
+          "url": "https://hips.hedera.com/all.html",
+          "timestamp": null,
+          "description": "HIP stands for “Hedera Improvement Proposal”. These improvement proposals can range from core protocol changes, to the applications, frameworks, and protocols built on top of the Hedera public network and used by the community.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/CdBWn0ETSJy1qF65oQ9_hoqXLHxP4fiBzBaDacRXj2A/https/hips.hedera.com/assets/images/hh_meta_hips.png",
+            "width": 2400,
+            "height": 1256
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC40",
+            "code": "eyes",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f440.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "950496193337786418",
+              "name": "Michael Garber",
+              "discriminator": "5033",
+              "nickname": "Michael Garber",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/950496193337786418/1d31f010e05ef71b085d6abad4373e4f.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "950496193337786418",
+          "name": "Michael Garber",
+          "discriminator": "5033",
+          "nickname": "Michael Garber",
+          "color": "#2ECC71",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "511588313577291792",
+              "name": "Hedera Developer Advocate",
+              "color": "#2ECC71",
+              "position": 10
+            },
+            {
+              "id": "408125779285639171",
+              "name": "Hedera Core",
+              "color": "#1ABC9C",
+              "position": 9
+            },
+            {
+              "id": "1042837965086396436",
+              "name": "Member",
+              "color": "#E91E63",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/950496193337786418/1d31f010e05ef71b085d6abad4373e4f.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1089938095597703299",
+      "type": "Reply",
+      "timestamp": "2023-03-27T15:44:52.061+00:00",
+      "timestampEdited": "2023-03-27T15:45:23.828+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "There was a duplicate Review string a yaml file. This PR fixes that. Thank you https://github.com/hashgraph/hedera-improvement-proposal/pull/704/files",
+      "author": {
+        "id": "950496193337786418",
+        "name": "Michael Garber",
+        "discriminator": "5033",
+        "nickname": "Michael Garber",
+        "color": "#2ECC71",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "511588313577291792",
+            "name": "Hedera Developer Advocate",
+            "color": "#2ECC71",
+            "position": 10
+          },
+          {
+            "id": "408125779285639171",
+            "name": "Hedera Core",
+            "color": "#1ABC9C",
+            "position": 9
+          },
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/950496193337786418/1d31f010e05ef71b085d6abad4373e4f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "957056530086256640",
+            "name": "hedera",
+            "code": "hedera",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/957056530086256640.png"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "292705407552454657",
+              "name": "fessmm",
+              "discriminator": "0000",
+              "nickname": "fessmm",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/292705407552454657/f450d2bbec3d023c36bce9f2342680ee.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "292705407552454657",
+          "name": "fessmm",
+          "discriminator": "0000",
+          "nickname": "fessmm",
+          "color": "#E91E63",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1042837965086396436",
+              "name": "Member",
+              "color": "#E91E63",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/292705407552454657/f450d2bbec3d023c36bce9f2342680ee.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1089282776060133498",
+        "channelId": "1068722201320231062",
+        "guildId": "373889138199494658"
+      }
+    },
+    {
+      "id": "1105368797176676362",
+      "type": "Default",
+      "timestamp": "2023-05-09T05:40:58.006+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hello, is there any possibility to add Arabic to the language section?",
+      "author": {
+        "id": "691392943474343946",
+        "name": "itssincerelyme",
+        "discriminator": "0000",
+        "nickname": "itssincerelymee",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/691392943474343946/43488b344e03ae666fef05fbe6366a53.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1105368825500815390",
+      "type": "Default",
+      "timestamp": "2023-05-09T05:41:04.759+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks in advance",
+      "author": {
+        "id": "691392943474343946",
+        "name": "itssincerelyme",
+        "discriminator": "0000",
+        "nickname": "itssincerelymee",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/691392943474343946/43488b344e03ae666fef05fbe6366a53.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125163171766870127",
+      "type": "Default",
+      "timestamp": "2023-07-02T20:36:44.67+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://hedera.com/consensus-service\nThe Link on the Button for the 'Hyperledger Connector' is not available anymore / has been move to archived (https://github.com/hyperledger-labs/hyperledger-labs.github.io/blob/main/labs/pluggable-hcs.md)",
+      "author": {
+        "id": "249567154913935361",
+        "name": "jeromek",
+        "discriminator": "0000",
+        "nickname": "JeromeTHA",
+        "color": "#3498DB",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "896156029610491944",
+            "name": "Partners",
+            "color": "#3498DB",
+            "position": 6
+          },
+          {
+            "id": "837401257568108634",
+            "name": "Server Booster",
+            "color": "#71368A",
+            "position": 4
+          },
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/373889138199494658/users/249567154913935361/avatars/89c91e636d8df997c52c9344d2391ed5.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Hedera Consensus Service | Hedera",
+          "url": "https://hedera.com/consensus-service",
+          "timestamp": null,
+          "description": "Verifiable time-stamping and ordering of events for any web2 or web3 application.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/9PcGN6jK2uCVjzKlHEalSH9NPFRZo6KeyUsK_XVAqL4/%3Fw%3D1200%26h%3D630%26q%3D82%26auto%3Dformat%26fit%3Dclip%26dm%3D1680224899%26s%3D5fd858d11c1b70f0c01042291ab54b3f/https/images.hedera.com/hh-consensus-service-meta-image.jpg",
+            "width": 1200,
+            "height": 628
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1125722397568422030",
+      "type": "Default",
+      "timestamp": "2023-07-04T09:38:54.491+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks @JeromeTHA",
+      "author": {
+        "id": "902639440193785936",
+        "name": "defigirlxo",
+        "discriminator": "0000",
+        "nickname": "Defigirlxo",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "408122390351183883",
+            "name": "admin",
+            "color": null,
+            "position": 18
+          },
+          {
+            "id": "408125779285639171",
+            "name": "Hedera Core",
+            "color": "#1ABC9C",
+            "position": 9
+          },
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/902639440193785936/afd434815db0d863683f08ba215fff44.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "249567154913935361",
+              "name": "jeromek",
+              "discriminator": "0000",
+              "nickname": "JeromeTHA",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/guilds/373889138199494658/users/249567154913935361/avatars/89c91e636d8df997c52c9344d2391ed5.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "249567154913935361",
+          "name": "jeromek",
+          "discriminator": "0000",
+          "nickname": "JeromeTHA",
+          "color": "#3498DB",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "896156029610491944",
+              "name": "Partners",
+              "color": "#3498DB",
+              "position": 6
+            },
+            {
+              "id": "837401257568108634",
+              "name": "Server Booster",
+              "color": "#71368A",
+              "position": 4
+            },
+            {
+              "id": "1042837965086396436",
+              "name": "Member",
+              "color": "#E91E63",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/guilds/373889138199494658/users/249567154913935361/avatars/89c91e636d8df997c52c9344d2391ed5.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1127530237874413589",
+      "type": "Default",
+      "timestamp": "2023-07-09T09:22:37.208+00:00",
+      "timestampEdited": "2023-07-09T09:26:42.668+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It would be really nice if Docs were just a bit more helpful on token services. For example : `autoRenewPeriod` is supposedly a value between 30 and 90 days. That's great and all but do I count it in days? Seconds? What is default value? There's no documentation on this it's just written as a parameter on https://docs.hedera.com/hedera/sdks-and-apis/hedera-api/token-service/tokencreate and htat's all you get\n\nFor example this post : https://discord.com/channels/373889138199494658/768621337865486347/1082262553016684564 says the exprity is between 6999999 and 8000001 which kinda doesn't fit the proposed 30-90 days window alleged by docs on expiry of contracts",
+      "author": {
+        "id": "306966472692072448",
+        "name": "vr1587",
+        "discriminator": "0000",
+        "nickname": "VR",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306966472692072448/90beccf5bbd5a94e30c31e8ac8ccab4e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "TokenCreate",
+          "url": "https://docs.hedera.com/hedera/sdks-and-apis/hedera-api/token-service/tokencreate",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/FQ6u_K3OLPcbQ1DWafO-SN1g-yWqhaurvloGC0YN5qM/%3Fcolor%3D%25238259EF%26logo%3Dhttps%253A%252F%252F2318454062-files.gitbook.io%252F~%252Ffiles%252Fv0%252Fb%252Fgitbook-x-prod.appspot.com%252Fo%252Fspaces%25252F-LsUmP_7NoX2exvbv_Ps%25252Ficon%25252FEreNBwhyCRmIPoBUOXkV%25252Fhedera-hashgraph-hbar-logo.png%253Falt%253Dmedia%2526token%253D6dfffccf-ad9f-4542-983c-6d2fe482a3ee%26theme%3Ddefault/https/app.gitbook.com/share/space/thumbnail/-LsUmP_7NoX2exvbv_Ps/page/h1BdqniPXhLj9Nu5lV7P.png",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1127532969947566112",
+      "type": "Default",
+      "timestamp": "2023-07-09T09:33:28.585+00:00",
+      "timestampEdited": "2023-07-09T09:40:49.098+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "in addition the tokenservice page could easily have one more column specifying the SC and SDK methods used to set the value. As an example: freezeKey is not defined as `token.freezeKey` but in an array of `IHederaTokenService.TokenKey` which is set to `token.tokenKeys`. Where do I read ab this? How do I know this? what about `tokenType` or `supplyType`\n\nSame goes for `FUNGIBLE_COMMON` or `FINITE` type Constants. We dont have them in SC interfaces? Or are they simply not defined in docs? I have to hope everyone working with SC will remember that the line `token.tokenSupplyType = false;` is not some hotfix I figured on the spot but a thought through decision bcs we have no docs on how to use `TokenSupplyType.FINITE` for better readability in SC instead",
+      "author": {
+        "id": "306966472692072448",
+        "name": "vr1587",
+        "discriminator": "0000",
+        "nickname": "VR",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306966472692072448/90beccf5bbd5a94e30c31e8ac8ccab4e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1127535644793634896",
+      "type": "Default",
+      "timestamp": "2023-07-09T09:44:06.318+00:00",
+      "timestampEdited": "2023-07-09T09:47:23.468+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Looking at it now it's even more inconsistent as `supplyType` as defined in docs is actually being set in SC as  `token.tokenSupplyType` not `token.supplyType` which is not explained anywhere on this page",
+      "author": {
+        "id": "306966472692072448",
+        "name": "vr1587",
+        "discriminator": "0000",
+        "nickname": "VR",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/306966472692072448/90beccf5bbd5a94e30c31e8ac8ccab4e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1127539284791009371",
+      "type": "Default",
+      "timestamp": "2023-07-09T09:58:34.161+00:00",
+      "timestampEdited": "2023-07-09T09:58:49.711+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "You can open an issue in the docs repo on GitHub @VR \nhttps://github.com/hashgraph/hedera-docs",
+      "author": {
+        "id": "292705407552454657",
+        "name": "fessmm",
+        "discriminator": "0000",
+        "nickname": "fessmm",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/292705407552454657/f450d2bbec3d023c36bce9f2342680ee.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - hashgraph/hedera-docs: Welcome to the official Hedera docu...",
+          "url": "https://github.com/hashgraph/hedera-docs",
+          "timestamp": null,
+          "description": "Welcome to the official Hedera documentation repository.  - GitHub - hashgraph/hedera-docs: Welcome to the official Hedera documentation repository.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/c82X8UcemdD89IgYreZp6LRcSlg6rBS1ApsM09rU06o/https/repository-images.githubusercontent.com/265612990/de2df880-b6d7-11ea-9415-9df7a9a2fec2",
+            "width": 1000,
+            "height": 1000
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "306966472692072448",
+          "name": "vr1587",
+          "discriminator": "0000",
+          "nickname": "VR",
+          "color": "#E91E63",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1042837965086396436",
+              "name": "Member",
+              "color": "#E91E63",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/306966472692072448/90beccf5bbd5a94e30c31e8ac8ccab4e.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1135211603256672306",
+      "type": "Default",
+      "timestamp": "2023-07-30T14:05:37.428+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks @VR I shared this with the docs team",
+      "author": {
+        "id": "902639440193785936",
+        "name": "defigirlxo",
+        "discriminator": "0000",
+        "nickname": "Defigirlxo",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "408122390351183883",
+            "name": "admin",
+            "color": null,
+            "position": 18
+          },
+          {
+            "id": "408125779285639171",
+            "name": "Hedera Core",
+            "color": "#1ABC9C",
+            "position": 9
+          },
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/902639440193785936/afd434815db0d863683f08ba215fff44.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "306966472692072448",
+          "name": "vr1587",
+          "discriminator": "0000",
+          "nickname": "VR",
+          "color": "#E91E63",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1042837965086396436",
+              "name": "Member",
+              "color": "#E91E63",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/306966472692072448/90beccf5bbd5a94e30c31e8ac8ccab4e.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1136233103808012303",
+      "type": "Default",
+      "timestamp": "2023-08-02T09:44:42.138+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey guys, just a feedback from HbarSuite:\nWe recommend the dev team to conform to a consistent deploy method of ground breaking changes, properly announced many months ahead on testnet and even before the mainnet. Even on things such as mirror node data structure sets. That would make the life of many devs easier \uD83D\uDE05 \n\nBest Regards",
+      "author": {
+        "id": "860686326830989323",
+        "name": "topachi",
+        "discriminator": "0000",
+        "nickname": "Topachi",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/860686326830989323/dfa617a0f613ff46ceb41e845cad4f70.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137077623688798360",
+      "type": "Default",
+      "timestamp": "2023-08-04T17:40:31.368+00:00",
+      "timestampEdited": "2023-08-04T17:40:48.924+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://twitter.com/CDubsky/status/1687516208415805440?s=20",
+      "author": {
+        "id": "123968647256342528",
+        "name": "mr_christian",
+        "discriminator": "0000",
+        "nickname": "Apph \uD83D\uDE80 sex.hbar",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/123968647256342528/6e3c592ad6a160baa0a54434d4ca92b6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/CDubsky/status/1687516208415805440?s=20",
+          "timestamp": "2023-08-04T17:29:51.278+00:00",
+          "description": "@Ashe_Oro If @hedera really is the most efficient DLT network, why the need to make are our 10k mint prices more than double our other competitors now? Harmful business decision when we need more market share first. This change may inhibit large NFT gaming projects from switching to hedera…",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "Apph \uD83D\uDE80 sex.hbar (@CDubsky)",
+            "url": "https://twitter.com/CDubsky",
+            "iconUrl": "https://images-ext-2.discordapp.net/external/GK5hxNsKzK0aeExeTGS2lXuC_lDblEyw5jakdFaUvwo/https/pbs.twimg.com/profile_images/1617973769502425105/L3lZF7yO_400x400.jpg"
+          },
+          "image": {
+            "url": "https://images-ext-2.discordapp.net/external/lJX3QExIKooastMwsRb7Jcounv7bSPDIH-Z0o30bSn8/https/pbs.twimg.com/media/F2tB7X9XUAQkLb7.jpg",
+            "width": 726,
+            "height": 274
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-2.discordapp.net/external/lJX3QExIKooastMwsRb7Jcounv7bSPDIH-Z0o30bSn8/https/pbs.twimg.com/media/F2tB7X9XUAQkLb7.jpg",
+              "width": 726,
+              "height": 274
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1137231070916522115",
+      "type": "Default",
+      "timestamp": "2023-08-05T03:50:16.038+00:00",
+      "timestampEdited": "2023-08-05T04:14:53.283+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Apph \uD83D\uDE80 sex.hbar Not harmful at all. And the network you mentioned, none of them are aBFT. It is easy to make NFT cheaper, put it on something more centralized; in other words, what every DLT is not supposed to be.\nYou also forget that low fees is not sustainable and gets plagued with hidden fees. So good luck to the ones who think they can get away with $0.00018 without some kind of long term consequence.",
+      "author": {
+        "id": "377865013030813717",
+        "name": "supremax67",
+        "discriminator": "0000",
+        "nickname": "Supremax67",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "900845300141395978",
+            "name": "Moderator",
+            "color": "#11806A",
+            "position": 8
+          },
+          {
+            "id": "408124284599533568",
+            "name": "Elite",
+            "color": "#F1C40F",
+            "position": 7
+          },
+          {
+            "id": "837401257568108634",
+            "name": "Server Booster",
+            "color": "#71368A",
+            "position": 4
+          },
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377865013030813717/4065e877e889539a98f714dee4a9293f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "123968647256342528",
+          "name": "mr_christian",
+          "discriminator": "0000",
+          "nickname": "Apph \uD83D\uDE80 sex.hbar",
+          "color": "#E91E63",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1042837965086396436",
+              "name": "Member",
+              "color": "#E91E63",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/123968647256342528/6e3c592ad6a160baa0a54434d4ca92b6.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1137924751709454366",
+      "type": "Reply",
+      "timestamp": "2023-08-07T01:46:42.427+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you are conflating aBFT & gaining market share. They are totally different things and not the feedback i gave, thats a red herring. \n\nHedera is quite centralized (taking proxy servers down, self paying 6 fig salaries), i do trust hedera long term to decentralize, but as long as hbarf/hedera is paying eneterprise use cases (who can afford it) in hbar to pump network activity, all that we ask is to please give retail the same break, 1c or less would be fair given the bear market. As soon as retail starting to issue 30k (hashpack) and 40k (earthlings) mints, your instinct is jack up prices.\n\n2c per NFT arbitrarily picked out of a hat without showing that the actual cost is yet another sign of predatory business behavior against retail (gc/swirlds was supposed to cost less the ecosystem less not more). \n\nplease dont see us as your ATM. We have lost the cheapest narrative, but what have we gained in return?",
+      "author": {
+        "id": "123968647256342528",
+        "name": "mr_christian",
+        "discriminator": "0000",
+        "nickname": "Apph \uD83D\uDE80 sex.hbar",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/123968647256342528/6e3c592ad6a160baa0a54434d4ca92b6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "377865013030813717",
+          "name": "supremax67",
+          "discriminator": "0000",
+          "nickname": "Supremax67",
+          "color": "#11806A",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "900845300141395978",
+              "name": "Moderator",
+              "color": "#11806A",
+              "position": 8
+            },
+            {
+              "id": "408124284599533568",
+              "name": "Elite",
+              "color": "#F1C40F",
+              "position": 7
+            },
+            {
+              "id": "837401257568108634",
+              "name": "Server Booster",
+              "color": "#71368A",
+              "position": 4
+            },
+            {
+              "id": "1042837965086396436",
+              "name": "Member",
+              "color": "#E91E63",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/377865013030813717/4065e877e889539a98f714dee4a9293f.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1137231070916522115",
+        "channelId": "1068722201320231062",
+        "guildId": "373889138199494658"
+      }
+    },
+    {
+      "id": "1137930433158467655",
+      "type": "Reply",
+      "timestamp": "2023-08-07T02:09:16.99+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It is an important annotation because comparing apples and oranges makes no sense.",
+      "author": {
+        "id": "377865013030813717",
+        "name": "supremax67",
+        "discriminator": "0000",
+        "nickname": "Supremax67",
+        "color": "#11806A",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "900845300141395978",
+            "name": "Moderator",
+            "color": "#11806A",
+            "position": 8
+          },
+          {
+            "id": "408124284599533568",
+            "name": "Elite",
+            "color": "#F1C40F",
+            "position": 7
+          },
+          {
+            "id": "837401257568108634",
+            "name": "Server Booster",
+            "color": "#71368A",
+            "position": 4
+          },
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/377865013030813717/4065e877e889539a98f714dee4a9293f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "123968647256342528",
+          "name": "mr_christian",
+          "discriminator": "0000",
+          "nickname": "Apph \uD83D\uDE80 sex.hbar",
+          "color": "#E91E63",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1042837965086396436",
+              "name": "Member",
+              "color": "#E91E63",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/123968647256342528/6e3c592ad6a160baa0a54434d4ca92b6.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1137924751709454366",
+        "channelId": "1068722201320231062",
+        "guildId": "373889138199494658"
+      }
+    },
+    {
+      "id": "1141683736828706877",
+      "type": "Default",
+      "timestamp": "2023-08-17T10:43:34.318+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "There are 2 german channels in the languages section @Defigirlxo",
+      "author": {
+        "id": "292705407552454657",
+        "name": "fessmm",
+        "discriminator": "0000",
+        "nickname": "fessmm",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/292705407552454657/f450d2bbec3d023c36bce9f2342680ee.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE01",
+            "code": "grin",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f601.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1063962925250916424",
+              "name": "cryptoroshan",
+              "discriminator": "0000",
+              "nickname": "CryptoRoshan",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1063962925250916424/beb10fd27291f37f88664e6f096aeb79.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "902639440193785936",
+          "name": "defigirlxo",
+          "discriminator": "0000",
+          "nickname": "Defigirlxo",
+          "color": "#1ABC9C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "408122390351183883",
+              "name": "admin",
+              "color": null,
+              "position": 18
+            },
+            {
+              "id": "408125779285639171",
+              "name": "Hedera Core",
+              "color": "#1ABC9C",
+              "position": 9
+            },
+            {
+              "id": "1042837965086396436",
+              "name": "Member",
+              "color": "#E91E63",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/902639440193785936/afd434815db0d863683f08ba215fff44.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1141701731630198794",
+      "type": "Reply",
+      "timestamp": "2023-08-17T11:55:04.613+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oops, fixed thanks!",
+      "author": {
+        "id": "902639440193785936",
+        "name": "defigirlxo",
+        "discriminator": "0000",
+        "nickname": "Defigirlxo",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "408122390351183883",
+            "name": "admin",
+            "color": null,
+            "position": 18
+          },
+          {
+            "id": "408125779285639171",
+            "name": "Hedera Core",
+            "color": "#1ABC9C",
+            "position": 9
+          },
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/902639440193785936/afd434815db0d863683f08ba215fff44.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "292705407552454657",
+          "name": "fessmm",
+          "discriminator": "0000",
+          "nickname": "fessmm",
+          "color": "#E91E63",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1042837965086396436",
+              "name": "Member",
+              "color": "#E91E63",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/292705407552454657/f450d2bbec3d023c36bce9f2342680ee.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1141683736828706877",
+        "channelId": "1068722201320231062",
+        "guildId": "373889138199494658"
+      }
+    },
+    {
+      "id": "1144348860282572822",
+      "type": "Default",
+      "timestamp": "2023-08-24T19:13:49.265+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Ed Marquez regarding the ethers.js announcement, is there any interest in supporting more hedera specific items there as well? For example, and correct me if I'm wrong, but I'm stuck using the hedera sdk to deploy contracts with autoRenewAccountIds",
+      "author": {
+        "id": "887864068722028565",
+        "name": "littletarzan",
+        "discriminator": "0000",
+        "nickname": "littletarzan",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/887864068722028565/ceef0cdd790a10b5eef881fa2b8b6b95.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "858141398473375754",
+          "name": "ed.marquez",
+          "discriminator": "0000",
+          "nickname": "Ed Marquez",
+          "color": "#1ABC9C",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "408125779285639171",
+              "name": "Hedera Core",
+              "color": "#1ABC9C",
+              "position": 9
+            },
+            {
+              "id": "1042837965086396436",
+              "name": "Member",
+              "color": "#E91E63",
+              "position": 3
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/858141398473375754/883573e2b726022c55f5acbecaf9e3e6.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1144348953958170624",
+      "type": "Default",
+      "timestamp": "2023-08-24T19:14:11.599+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "same with admin key, staked node, etc",
+      "author": {
+        "id": "887864068722028565",
+        "name": "littletarzan",
+        "discriminator": "0000",
+        "nickname": "littletarzan",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/887864068722028565/ceef0cdd790a10b5eef881fa2b8b6b95.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1144350702815166645",
+      "type": "Default",
+      "timestamp": "2023-08-24T19:21:08.559+00:00",
+      "timestampEdited": "2023-08-24T19:23:11.667+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "That's my understanding as well. EVM tooling (like ethers and web3 js) does not currently provide a way to configure or work with Hedera-specific functionality (autorenew period/account, staking specs, etc.) Atm, the SDK is the only tool to configure those options. \n\nI'm not aware of plans for the short-term to propose those capabilities on those third party libraries. From previous observations, they're most likely not to welcome the changes to generic tooling to accommodate requirements of a single network.\n\nLet us know if you have any specific thoughts, ideas, or suggestions around this.",
+      "author": {
+        "id": "858141398473375754",
+        "name": "ed.marquez",
+        "discriminator": "0000",
+        "nickname": "Ed Marquez",
+        "color": "#1ABC9C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "408125779285639171",
+            "name": "Hedera Core",
+            "color": "#1ABC9C",
+            "position": 9
+          },
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/858141398473375754/883573e2b726022c55f5acbecaf9e3e6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1144351375975784529",
+      "type": "Default",
+      "timestamp": "2023-08-24T19:23:49.053+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's alright, there are workarounds and we can use both, it's just a pain \uD83D\uDE42",
+      "author": {
+        "id": "887864068722028565",
+        "name": "littletarzan",
+        "discriminator": "0000",
+        "nickname": "littletarzan",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/887864068722028565/ceef0cdd790a10b5eef881fa2b8b6b95.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1144439960909398026",
+      "type": "Default",
+      "timestamp": "2023-08-25T01:15:49.347+00:00",
+      "timestampEdited": "2023-08-25T01:17:56.545+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi in respond to the announcement of https://discord.com/channels/373889138199494658/957012900004904981/1144337773424287776 , may I know does this mean that hardhat with ethers.js are sufficient to run `hedera-cli` as local hedera network shown in https://github.com/hashgraph/hedera-local-node#network-specific-configuration without `Hardhat Hethers Plugin`?",
+      "author": {
+        "id": "1070528255595118612",
+        "name": "builderoffuture",
+        "discriminator": "0000",
+        "nickname": "BuilderOfFuture-H",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - hashgraph/hedera-local-node: Run your own local Hedera net...",
+          "url": "https://github.com/hashgraph/hedera-local-node",
+          "timestamp": null,
+          "description": "Run your own local Hedera network for development purposes. - GitHub - hashgraph/hedera-local-node: Run your own local Hedera network for development purposes.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/bEs9zyU6TMVSlsw-bDpy__DNMTay7OTHnER1kKoHiP8/https/opengraph.githubassets.com/08b290dbcc98843d9695feab7d15f3e41012b7ea3472cc40486e0d2018c91613/hashgraph/hedera-local-node",
+            "width": 1200,
+            "height": 600
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC40",
+            "code": "eyes",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f440.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "738176957530767470",
+              "name": "izradragoon",
+              "discriminator": "0000",
+              "nickname": "izradragoon",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/738176957530767470/68fa8f02f6a86f86094f8464a17b9cae.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1145520297710211147",
+      "type": "ThreadCreated",
+      "timestamp": "2023-08-28T00:48:41.712+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Started a thread.",
+      "author": {
+        "id": "1070528255595118612",
+        "name": "builderoffuture",
+        "discriminator": "0000",
+        "nickname": "BuilderOfFuture-H",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1042837965086396436",
+            "name": "Member",
+            "color": "#E91E63",
+            "position": 3
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/1.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": null,
+        "channelId": "1144439960909398026",
+        "guildId": "373889138199494658"
+      }
+    }
+  ],
+  "messageCount": 45
+}
